@@ -1,4 +1,4 @@
-# LICENSE LIST
+## LICENSE LIST
 
 Software contained in this package is released under the following license(s):
 
@@ -10,6 +10,6 @@ Contact author for authorization for commercial use if an Non-Commercial (NC) cl
 
 Author: <bluedeck@outlook.com>
 
-# REFERENCES
+## REFERENCES
 
 - Link to CC BY-SA-NC License: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
